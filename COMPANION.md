@@ -1,6 +1,9 @@
 # Setup with ArduSub Companion
 
+
+
 **This document is now outdated, read our [Documentation Page](https://docs.exploredeepwater.com/guides/pi_setup.html) for more info**
+
 
 ### Setup WinSCP and PuTTy. Open WinSCP and start a new session.
 *File Protocol*
