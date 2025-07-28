@@ -1,3 +1,10 @@
+> [!WARNING]  
+> This is basically just a fork of the Legacy DWE OS repo. We used a spesific version, but this was deleted from the trace on their official git, so here is our version.
+> 
+> Changes:
+> * Uploaded precompiled version of ui/camera/controls
+
+
 <a href="https://dwe.ai/">
     <img src="https://docs.dwe.ai/_static/DWELogo_white_WEB.svg" alt="DWE Logo" title="DeepWater Exploration" align="right" height="60" />
 </a>
