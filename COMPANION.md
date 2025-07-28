@@ -1,6 +1,10 @@
 # Setup with ArduSub Companion
 
-
+> [!WARNING]  
+> This is basically just a fork of the Legacy DWE OS repo. We used a spesific version, but this was deleted from the trace on their official git, so here is our version.
+> 
+> Changes:
+> * Uploaded precompiled version of ui/camera/controls
 
 **This document is now outdated, read our [Documentation Page](https://docs.exploredeepwater.com/guides/pi_setup.html) for more info**
 
